@@ -27,7 +27,7 @@
 ![ZRS](https://learn.microsoft.com/en-us/azure/storage/common/media/storage-redundancy/zone-redundant-storage.png)
 - 3.GRS 
 
-![GRS]()
+![GRS](https://learn.microsoft.com/en-us/azure/storage/common/media/storage-redundancy/geo-redundant-storage.png)
 - 4.RA-GRS
 
 ![RA-GRS](https://learn.microsoft.com/en-us/azure/storage/common/media/storage-redundancy/geo-redundant-storage.png)
@@ -47,4 +47,6 @@
 - Cannot be changed performance type after created
 ###### Premium 
 - Cannot be changed replication type and performnce type after created
+
+![Storage](https://gillianstravers.com/wp-content/uploads/2022/05/1_B4db7JS_34ZegqfSyTojkA.png)
 
