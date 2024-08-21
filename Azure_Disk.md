@@ -1,0 +1,1 @@
+![disk type](https://github.com/user-attachments/assets/c3d7eae8-1131-46fa-aec2-d2bd11702d6b)
